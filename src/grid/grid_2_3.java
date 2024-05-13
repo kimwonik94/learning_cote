@@ -1,3 +1,5 @@
+package grid;
+
 import java.util.Scanner;
 
 public class grid_2_3 {

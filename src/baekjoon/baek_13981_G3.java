@@ -21,7 +21,7 @@ public class baek_13981_G3 {
             sum[i] = sum[i-1] + sc.nextInt();
         }
 
-        // 합 집합에서 %3하면서 같은 경우의 수 찾기
+
 
 
 
